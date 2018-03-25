@@ -1,0 +1,17 @@
+E:\Dane\UWM\Billennium\Cw1\WebApi\bin\Debug\netcoreapp2.0\WebApi.deps.json
+E:\Dane\UWM\Billennium\Cw1\WebApi\bin\Debug\netcoreapp2.0\WebApi.runtimeconfig.json
+E:\Dane\UWM\Billennium\Cw1\WebApi\bin\Debug\netcoreapp2.0\WebApi.runtimeconfig.dev.json
+E:\Dane\UWM\Billennium\Cw1\WebApi\bin\Debug\netcoreapp2.0\WebApi.dll
+E:\Dane\UWM\Billennium\Cw1\WebApi\bin\Debug\netcoreapp2.0\WebApi.pdb
+E:\Dane\UWM\Billennium\Cw1\WebApi\obj\Debug\netcoreapp2.0\WebApi.csprojResolveAssemblyReference.cache
+E:\Dane\UWM\Billennium\Cw1\WebApi\obj\Debug\netcoreapp2.0\WebApi.csproj.CoreCompileInputs.cache
+E:\Dane\UWM\Billennium\Cw1\WebApi\obj\Debug\netcoreapp2.0\WebApi.AssemblyInfoInputs.cache
+E:\Dane\UWM\Billennium\Cw1\WebApi\obj\Debug\netcoreapp2.0\WebApi.AssemblyInfo.cs
+E:\Dane\UWM\Billennium\Cw1\WebApi\obj\Debug\netcoreapp2.0\WebApi.dll
+E:\Dane\UWM\Billennium\Cw1\WebApi\obj\Debug\netcoreapp2.0\WebApi.pdb
+E:\Dane\UWM\Billennium\Cw1\WebApi\bin\Debug\netcoreapp2.0\Data.dll
+E:\Dane\UWM\Billennium\Cw1\WebApi\bin\Debug\netcoreapp2.0\Repository.dll
+E:\Dane\UWM\Billennium\Cw1\WebApi\bin\Debug\netcoreapp2.0\Services.dll
+E:\Dane\UWM\Billennium\Cw1\WebApi\bin\Debug\netcoreapp2.0\Data.pdb
+E:\Dane\UWM\Billennium\Cw1\WebApi\bin\Debug\netcoreapp2.0\Services.pdb
+E:\Dane\UWM\Billennium\Cw1\WebApi\bin\Debug\netcoreapp2.0\Repository.pdb

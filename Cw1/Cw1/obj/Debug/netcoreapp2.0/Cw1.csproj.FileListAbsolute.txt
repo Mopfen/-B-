@@ -1,0 +1,11 @@
+E:\Dane\UWM\Billennium\Cw1\Cw1\bin\Debug\netcoreapp2.0\Cw1.deps.json
+E:\Dane\UWM\Billennium\Cw1\Cw1\bin\Debug\netcoreapp2.0\Cw1.runtimeconfig.json
+E:\Dane\UWM\Billennium\Cw1\Cw1\bin\Debug\netcoreapp2.0\Cw1.runtimeconfig.dev.json
+E:\Dane\UWM\Billennium\Cw1\Cw1\bin\Debug\netcoreapp2.0\Cw1.dll
+E:\Dane\UWM\Billennium\Cw1\Cw1\bin\Debug\netcoreapp2.0\Cw1.pdb
+E:\Dane\UWM\Billennium\Cw1\Cw1\obj\Debug\netcoreapp2.0\Cw1.csprojResolveAssemblyReference.cache
+E:\Dane\UWM\Billennium\Cw1\Cw1\obj\Debug\netcoreapp2.0\Cw1.csproj.CoreCompileInputs.cache
+E:\Dane\UWM\Billennium\Cw1\Cw1\obj\Debug\netcoreapp2.0\Cw1.AssemblyInfoInputs.cache
+E:\Dane\UWM\Billennium\Cw1\Cw1\obj\Debug\netcoreapp2.0\Cw1.AssemblyInfo.cs
+E:\Dane\UWM\Billennium\Cw1\Cw1\obj\Debug\netcoreapp2.0\Cw1.dll
+E:\Dane\UWM\Billennium\Cw1\Cw1\obj\Debug\netcoreapp2.0\Cw1.pdb

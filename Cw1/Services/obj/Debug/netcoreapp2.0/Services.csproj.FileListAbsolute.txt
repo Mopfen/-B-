@@ -1,0 +1,13 @@
+E:\Dane\UWM\Billennium\Cw1\Services\bin\Debug\netcoreapp2.0\Services.deps.json
+E:\Dane\UWM\Billennium\Cw1\Services\bin\Debug\netcoreapp2.0\Services.dll
+E:\Dane\UWM\Billennium\Cw1\Services\bin\Debug\netcoreapp2.0\Services.pdb
+E:\Dane\UWM\Billennium\Cw1\Services\obj\Debug\netcoreapp2.0\Services.csprojResolveAssemblyReference.cache
+E:\Dane\UWM\Billennium\Cw1\Services\obj\Debug\netcoreapp2.0\Services.csproj.CoreCompileInputs.cache
+E:\Dane\UWM\Billennium\Cw1\Services\obj\Debug\netcoreapp2.0\Services.AssemblyInfoInputs.cache
+E:\Dane\UWM\Billennium\Cw1\Services\obj\Debug\netcoreapp2.0\Services.AssemblyInfo.cs
+E:\Dane\UWM\Billennium\Cw1\Services\obj\Debug\netcoreapp2.0\Services.dll
+E:\Dane\UWM\Billennium\Cw1\Services\obj\Debug\netcoreapp2.0\Services.pdb
+E:\Dane\UWM\Billennium\Cw1\Services\bin\Debug\netcoreapp2.0\Data.dll
+E:\Dane\UWM\Billennium\Cw1\Services\bin\Debug\netcoreapp2.0\Repository.dll
+E:\Dane\UWM\Billennium\Cw1\Services\bin\Debug\netcoreapp2.0\Data.pdb
+E:\Dane\UWM\Billennium\Cw1\Services\bin\Debug\netcoreapp2.0\Repository.pdb
